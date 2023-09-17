@@ -1,0 +1,14 @@
+{
+  "name": "shanewalker",
+  "version": "1.0.6",
+  "description": "",
+  "entry": "index.js",
+  "main": "index.js",
+  "bin": "./bin.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
